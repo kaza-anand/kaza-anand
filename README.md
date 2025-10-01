@@ -8,16 +8,16 @@ Aspiring Software Developer | Tech Enthusiast | Passionate Learner
 
 💻 Skills
 
-Programming Languages: Java, Python, JavaScript, SQL
+🔹 Programming Languages: Java, Python, JavaScript, SQL
 
-Web Development: HTML, CSS, JavaScript
+🔹 Web Development: HTML, CSS, JavaScript
 
 
 📫 How to reach me 
 
-LinkedIn | https://www.linkedin.com/in/jaya-sri-anand-kaza/
+🔹 LinkedIn | https://www.linkedin.com/in/jaya-sri-anand-kaza/
 
-main | kazajai501@gmail.com 
+🔹 mail | kazajai501@gmail.com 
 
 🔹 LeetCode: kaza_anand | https://leetcode.com/kaza_anand
 
