@@ -10,7 +10,7 @@ Aspiring Software Developer | Tech Enthusiast | Passionate Learner
 
 📫 How to reach me LinkedIn | kazajai501@gmail.com 
 
-🔹 LeetCode: [https://leetcode.com/kaza_anand] (https://leetcode.com/kaza_anand)
+🔹 LeetCode: kaza_anand | [https://leetcode.com/kaza_anand] 
 
 
 ⚡ Fun fact When I'm not coding, you might find me gaming or discovering new productivity hacks!
