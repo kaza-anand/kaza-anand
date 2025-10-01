@@ -8,7 +8,7 @@ Aspiring Software Developer | Tech Enthusiast | Passionate Learner
 
 💻 Skills : Programming Languages: Java, Python, JavaScript, SQL
 
-          Web Development: HTML, CSS, JavaScript
+Web Development: HTML, CSS, JavaScript
 
 
 📫 How to reach me 
