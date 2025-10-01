@@ -2,15 +2,19 @@
 
 Aspiring Software Developer | Tech Enthusiast | Passionate Learner
 
-💡 I’m interested in launching my career in the tech industry and exploring new technologies.
+💡 I am currently learning Full Stack Development at KodNest, building hands-on web projects and gaining real-world experience.
 
-👀 I’m looking to collaborate on open-source Java projects and exciting software development challenges.
+👀 I am now seeking a tech job to kickstart my career and contribute my skills to real-world projects.
 
-😊 Pronouns He/Him
+💻 Skills : Programming Languages: Java, Python, JavaScript, SQL
 
-📫 How to reach me LinkedIn | kazajai501@gmail.com 
+          Web Development: HTML, CSS, JavaScript
+
+
+📫 How to reach me 
+LinkedIn | https://www.linkedin.com/in/jaya-sri-anand-kaza/
+main | kazajai501@gmail.com 
 
 🔹 LeetCode: kaza_anand | https://leetcode.com/kaza_anand
-
 
 ⚡ Fun fact When I'm not coding, you might find me gaming or discovering new productivity hacks!
